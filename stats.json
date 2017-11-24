@@ -1,0 +1,84 @@
+{
+  "assetsByChunkName": {
+    "path---blog-solidity-constant-vs-view-vs-pure": [
+      "path---blog-solidity-constant-vs-view-vs-pure-ab16c8dc2be3b28d5254.js",
+      "path---blog-solidity-constant-vs-view-vs-pure-ab16c8dc2be3b28d5254.js.map"
+    ],
+    "component---src-pages-work-js": [
+      "component---src-pages-work-js-5cf193001ae45629a2c9.js",
+      "component---src-pages-work-js-5cf193001ae45629a2c9.js.map"
+    ],
+    "path---work": [
+      "path---work-cdf9e9e4a6cfd248632d.js",
+      "path---work-cdf9e9e4a6cfd248632d.js.map"
+    ],
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-7a31a5a20b161e587d58.js",
+      "component---src-pages-index-js-7a31a5a20b161e587d58.js.map"
+    ],
+    "path---blog": [
+      "path---blog-cadb7009b9c20e29e204.js",
+      "path---blog-cadb7009b9c20e29e204.js.map"
+    ],
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "component---src-pages-contact-js": [
+      "component---src-pages-contact-js-a486682b4d83cb6d5284.js",
+      "component---src-pages-contact-js-a486682b4d83cb6d5284.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-c00863b8bc75365b0efe.js",
+      "component---src-layouts-index-js-c00863b8bc75365b0efe.js.map"
+    ],
+    "path---blog-websockets-in-redux-two-approaches": [
+      "path---blog-websockets-in-redux-two-approaches-fb77c1428cca107d9373.js",
+      "path---blog-websockets-in-redux-two-approaches-fb77c1428cca107d9373.js.map"
+    ],
+    "path---index": [
+      "path---index-1db04e5021b40904aca6.js",
+      "path---index-1db04e5021b40904aca6.js.map"
+    ],
+    "component---src-pages-404-js": [
+      "component---src-pages-404-js-6cfd7b51a02b7ceaabae.js",
+      "component---src-pages-404-js-6cfd7b51a02b7ceaabae.js.map"
+    ],
+    "commons": [
+      "commons-788a18dea6e9cb31ca94.js",
+      "commons-788a18dea6e9cb31ca94.js.map"
+    ],
+    "path---404-html": [
+      "path---404-html-1db04e5021b40904aca6.js",
+      "path---404-html-1db04e5021b40904aca6.js.map"
+    ],
+    "path---contact": [
+      "path---contact-1db04e5021b40904aca6.js",
+      "path---contact-1db04e5021b40904aca6.js.map"
+    ],
+    "component---src-templates-post-js": [
+      "component---src-templates-post-js-7d949d793dab225d3fb9.js",
+      "component---src-templates-post-js-7d949d793dab225d3fb9.js.map"
+    ],
+    "path---blog-preventing-re-entrance-in-solidity-smart-contracts": [
+      "path---blog-preventing-re-entrance-in-solidity-smart-contracts-4b6fef06362250ff9dea.js",
+      "path---blog-preventing-re-entrance-in-solidity-smart-contracts-4b6fef06362250ff9dea.js.map"
+    ],
+    "component---src-pages-blog-js": [
+      "component---src-pages-blog-js-f1d5cd7d83a80ec826c3.js",
+      "component---src-pages-blog-js-f1d5cd7d83a80ec826c3.js.map"
+    ],
+    "app": [
+      "app-431ef3cdeb9c4900a093.js",
+      "app-431ef3cdeb9c4900a093.js.map"
+    ],
+    "path---blog-websockets-in-redux-using-sagas": [
+      "path---blog-websockets-in-redux-using-sagas-0908fae642838d21cc65.js",
+      "path---blog-websockets-in-redux-using-sagas-0908fae642838d21cc65.js.map"
+    ],
+    "path---404": [
+      "path---404-1db04e5021b40904aca6.js",
+      "path---404-1db04e5021b40904aca6.js.map"
+    ]
+  }
+}
